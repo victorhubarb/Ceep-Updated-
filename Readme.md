@@ -8,7 +8,7 @@ Project of a complete task manager, with the possibility not only of inserting t
 
 ## Demo
 
-
+https://ceep-updated.vercel.app/
 
 ## Project Features
 
@@ -30,7 +30,7 @@ Project of a complete task manager, with the possibility not only of inserting t
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/victorhubarb/Ceep-Updated-
 ```
 
 ## Future Implementations
